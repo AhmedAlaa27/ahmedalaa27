@@ -10,5 +10,5 @@ My approach prioritizes logic, system design, and clean abstractions before impl
 ## Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,py,c,cpp,java,js,ts,git,github,linux,django,fastapi,nodejs,express,postgres,mongodb,mysql,sqlite,prisma,tensorflow,sklearn,numpy,pandas&perline=7" />
+  <img src="https://skillicons.dev/icons?i=bash,py,c,cpp,java,js,ts,git,github,linux,django,fastapi,nodejs,express,postgres,mongodb,mysql,sqlite,prisma,ai,tensorflow,sklearn,numpy,pandas&perline=10" />
 </p>
